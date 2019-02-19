@@ -1,11 +1,11 @@
-# AutoScoup24 Scraper
+# AutoScout24 Scraper
 
 This scraper (based on Jsoup, only for Academic and research purpose) downloads data from https://www.autoscout24.it and create a collection on MongoDB with all vehicles attributes.
 
 
 # MIT License
 
-Copyright (c) 2018 Mauro Pelucchi
+Copyright (c) 2019 Mauro Pelucchi
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
